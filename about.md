@@ -4,27 +4,12 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I'm Pelumi Aboluwarin, a Software Engineer with a strong entrepreneurial drive. I spend the bulk of my time exploring, learning and building stuff :)!
+  My core interest lies in Artificial Intelligence focussing on Machine Learning and Natural Language Processing. 
+
+  This blog aims to archive my thoughts on random things relating to tech, entrepreneurship and life.
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+If you have questions, suggestions or you wish to rub minds on a super exciting project? Feel free to [open an issue on GitHub](https://github.com/Pelumi/pelumi.github.io/issues/new) or [ask me on Twitter](https://twitter.com/pelumiy).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks!
